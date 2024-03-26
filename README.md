@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NurainShahera
-- 👀 I’m interested in Big data analysis & System development
+- 👀 I’m interested in High-throughput biological data analysis, Big data analytics & System development
 - 🌱 I’m currently learning programming languages for data analysis and web development 
 - 📫 Reach me at nurainsh.hasan@gmail.com
 
